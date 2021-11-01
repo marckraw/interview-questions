@@ -8,6 +8,7 @@
 7. let, const, var - scope
 8. Hoisting
 9. Copying js objects (shallow copy vs deep)
+10. Javascript modules - CommonJs, AMD (requireJS), Webpack, Babel
 
 # React
 1. Solving problems with prop drilling (context)
