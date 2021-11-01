@@ -12,3 +12,7 @@
 
 # React
 1. Solving problems with prop drilling (context)
+
+
+# Backend (?)
+1. ORM - Object Relational Mapping
