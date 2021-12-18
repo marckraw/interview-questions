@@ -1,3 +1,6 @@
+# General
+1. https://betterprogramming.pub/navigating-software-engineering-interviews-ada700465e7
+
 # Javascript
 1. What is Pure Function ?
 2. What is side effect ?
