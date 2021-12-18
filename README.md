@@ -13,6 +13,7 @@
 9. Copying js objects (shallow copy vs deep)
 10. Javascript modules - CommonJs, AMD (requireJS), Webpack, Babel
 11. https://betterprogramming.pub/6-little-secrets-of-javascript-to-help-you-shine-at-job-interviews-c32bc5e93c8f
+12. memoization - https://betterprogramming.pub/javascript-performance-introduction-to-memoization-64793ce63100
 
 # React
 1. Solving problems with prop drilling (context)
